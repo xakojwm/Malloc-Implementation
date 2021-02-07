@@ -1,0 +1,15 @@
+Team Name:jwyattm
+Member 1 :Jacob Morris:jwyattm@bu.edu
+Using default tracefiles in traces/
+ERROR [trace 0, line 5]: mm_init failed.
+ERROR [trace 1, line 5]: mm_init failed.
+ERROR [trace 2, line 5]: mm_init failed.
+ERROR [trace 3, line 5]: mm_init failed.
+ERROR [trace 4, line 5]: mm_init failed.
+ERROR [trace 5, line 5]: mm_init failed.
+ERROR [trace 6, line 5]: mm_init failed.
+ERROR [trace 7, line 5]: mm_init failed.
+ERROR [trace 8, line 5]: mm_init failed.
+ERROR [trace 9, line 5]: mm_init failed.
+ERROR [trace 10, line 5]: mm_init failed.
+Terminated with 11 errors
